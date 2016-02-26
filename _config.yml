@@ -1,11 +1,11 @@
 # Site settings
-title: Boilerplate
-tagline: Boilerplate code for hosting a static holding page on GitHub pages
+title: Dan
+tagline: This is a simple holding page for the benefit of our QA workshop
 
 url: "" # the base hostname & protocol for your site
 
 # Used for theme in head.html, cannot be used in Stylus files
-color-primary: "#263238"
+color-primary: "#441199"
 
 # contact
 author:
@@ -14,7 +14,7 @@ author:
 
 twitter_username: danbuckland
 github_username:  danbuckland
-github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
+github_url: "https://github.com/danbuckland/boilerplate.site"
 
 # Others
 markdown: redcarpet
